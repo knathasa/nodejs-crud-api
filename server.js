@@ -17,7 +17,7 @@ app.get('/',(req,res) => {
     })
 })
 
-//connection to MySQL database
+//connection to MySQL database xxx
 
 let dbCon = mysql.createConnection({
     host: 'localhost',
